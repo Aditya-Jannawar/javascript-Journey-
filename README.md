@@ -1,2 +1,2 @@
-# javascript-Journey-
+# javascript-journey-
 code repo for js youtube 
